@@ -5,7 +5,7 @@ $dir = dirname(__DIR__);
 
 print "Building workflow in $dir\n";
 
-$version = "1.0.0";
+$version = "0.0.1";
 
 $plist = $dir.'/info.plist';
 
